@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WLUWActivity!</string>
+    <string name="app_name">WLUW</string>
+	<string name="goodbye"> Goodbye sucker </string>
+	<string name="track_label">Track:</string>
+	<string name="track"></string>
+	<string name="artist_label">Artist:</string>
+	<string name="artist"></string>
+	<string name="album_label">Album:</string>
+	<string name="album"></string>
+    
+
+    
+</resources>
